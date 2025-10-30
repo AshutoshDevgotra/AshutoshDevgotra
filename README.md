@@ -1,64 +1,59 @@
-# 👋 Hi, I’m Ashutosh Devgotra  
+👋 Hi there, I'm Ashutosh Devgotra
 
-🚀 Passionate **Full-Stack Developer** from India, focused on building scalable web apps and automation platforms using modern technologies like **Next.js**, **Tailwind CSS**, **Medusa.js**, and **Firebase**.  
+🚀 Aspiring Full-Stack Developer | Open Source Enthusiast | Problem Solver
 
----
+👀 About Me
 
-### 👀 I’m interested in
-- Open Source contributions (Next.js, Django, Medusa, Appwrite, etc.)
-- Building SaaS tools, e-commerce solutions & automation workflows
-- Cloud & DevOps (AWS, Railway, Vercel, Render)
-- AI integrations and developer productivity tools  
+💻 Passionate about building scalable and user-friendly web apps
 
----
+🌱 Currently learning Next.js, Django, and MLOps tools
 
-### 🌱 I’m currently learning
-- **Advanced Next.js (App Router, Server Actions)**
-- **Python + Django Rest Framework**
-- **Appwrite & Supabase for full-stack apps**
-- **CI/CD, Docker, and Cloud Deployments**
+🧩 Exploring AI automation, Appwrite, and Medusa.js ecosystems
 
----
+💬 Open to collaborating on open-source frontend and backend projects
 
-### 💞️ I’m looking to collaborate on
-- Open Source projects using **Next.js / Django / Tailwind / Medusa**
-- Developer tools, dashboards, or automation platforms (Zapier / n8n style)
-- College and startup tech initiatives  
+🌍 Contributor at XCEED, NITJ – DIIA OIIA Project
 
----
+🧠 Tech Stack
 
-### 📫 How to reach me
-- 📧 **Email:** [ashutoshdevgotra@gmail.com](mailto:ashutoshdevgotra@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/ashutoshdevgotra](https://linkedin.com/in/ashutoshdevgotra)  
-- 🌐 **Portfolio:** [growwithgarry.in](https://growwithgarry.in)  
-- 🐦 **Twitter/X:** [@ashutoshdevgotra](https://x.com/ashutoshdevgotra)  
+Frontend: Next.js, React.js, Tailwind CSS, Bootstrap
 
----
+Backend: Node.js, Express.js, Django, Medusa.js
 
-### ⚙️ Tech Stack
-💻 **Frontend:** Next.js, React, Tailwind CSS, Bootstrap  
-🧠 **Backend:** Node.js, Express, Django, Medusa.js  
-🗃️ **Database:** MongoDB, PostgreSQL, Firebase  
-☁️ **Cloud / Hosting:** Vercel, Railway, Render, AWS, Hostinger  
-⚙️ **Tools:** Git, GitHub Actions, Docker, VS Code, Zapier  
+Database: MongoDB, PostgreSQL, Firebase, Appwrite
 
----
+DevOps / Cloud: Railway, Render, Vercel, Google Cloud, AWS EC2
 
-### 🧩 Featured Projects
-| Project | Description | Tech |
-|----------|--------------|------|
-| 🎓 **XCEED – NITJ DIIA OIIA Project** | Contributed to frontend development, responsiveness, and deployment of NITJ’s official innovation and outreach portal. | Next.js, Tailwind, Firebase |
-| 🤖 **GrowWithGarry Automations** | No-code workflow automation platform built with Zapier and AI integrations. | Zapier, Next.js |
-| ⚡ **Freelancer Hub** | Firebase-powered freelancer registration and profile display platform. | Next.js, Firestore |
-| 🛠️ **Portfolio & Experimental Projects** | Multiple experiments with Next.js UI, Appwrite, and Medusa integrations. | Next.js, Appwrite |
+Others: Zapier Automation, REST APIs, Open Source Contributions
 
----
+💼 Projects & Contributions
 
-### 📊 GitHub Stats  
-![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshutoshDevgotra&show_icons=true&theme=tokyonight)
+🏫 XCEED NITJ – DIIA OIIA Project — Worked on frontend development & deployment
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshDevgotra&layout=compact&theme=tokyonight)
+🛍️ Xhipster Storefront (E-commerce) — Built a modern fashion brand platform with Medusa.js
 
----
+🔐 GrowWithGarry — AI automation provider website with payment integrations (Razorpay + Firebase Auth)
 
-> _“Code. Build. Automate. Repeat.”_ 💡  
+🧩 Coding & Problem Solving
+
+🧠 I enjoy tackling coding challenges and improving algorithms
+
+🧮 Check out my progress on LeetCode →
+
+💞️ Let’s Collaborate On
+
+Open-source frontend/backend projects
+
+Next.js + Django full-stack applications
+
+AI automation or workflow optimization tools
+
+📫 How to Reach Me
+
+✉️ Email: ashutoshdevgotra@gmail.com
+
+💼 LinkedIn: linkedin.com/in/ashutoshdevgotra
+
+🐙 GitHub: github.com/AshutoshDevgotra
+
+💡 LeetCode: leetcode.com/u/ashutoshdevgotra
